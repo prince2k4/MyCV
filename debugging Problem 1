@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="file:///home/piyush/Desktop/web/css/style.css">
+</head>
+<body>
+    <br>
+    <hr>
+    <br>
+    <center>
+        <img src="https://pbs.twimg.com/profile_images/1390201292623159296/-dwS8Ghb_400x400.jpg" alt="Prince Kumar" width="300"b height="300">
+   <strong>
+     <u>  <h2>
+          Prince Kumar  
+       </h2></u>
+   </strong>
+     </center>
+
+   <br>
+   <em>Student of Govt. School of South Delhi.</em>
+   <br>
+   <br>
+   <em>
+       I am in class 11th . I ❤️ Photography and Computer Programming Languages ....
+   </em>
+   <br>
+   <br>
+   <a href="https://www.instagram.com/bytheway_prince/" target="_blank">
+<em>
+    My Instagram Handel 
+</em>
+<br>
+<br>
+<a href="file:///home/piyush/Desktop/web/contact-me.html" target="_blank"> Contact Me </a>
+        <br>
+        <br> 
+        <hr>
+        <br>
+        <br>
+       
+        <h3>Work Experience</h3>
+        <table border="4px">
+            <tbody>
+               <th>  Years </th>    
+         <th>   Job </th>
+           <tr>
+               <td> 2010-2013  </td>
+               <td>         Lead Developer at Tempo App </td>
+   
+           </tr>
+           <tr>
+                  <td> 2010  </td>
+              <td>Research at the Institude of cognitive Neurosciences </td>
+           </tr>  
+            </tbody>
+        <tfoot></tfoot>
+       </table>
+ <br> <hr>
+ <br>
+ <h3> 
+    Skills
+</h3>
+        <table border="5">
+            <tr>
+                <td cellspacing ="20"> Bootstrap Framework    	&nbsp; 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;  ⭐⭐⭐⭐⭐</td>
+                <td>MVC Pattern	&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp; 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;   ⭐⭐⭐⭐✩</td>
+              </tr>  
+                    
+          <tr>
+              <td>CSS(3) 	&nbsp;	&nbsp; &nbsp; 	&nbsp;		&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;⭐⭐⭐⭐⭐</td>
+              <td>Method Factory Pattern  	&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;      	&nbsp;	&nbsp;	&nbsp; ⭐⭐⭐⭐✩</td>
+          </tr>
+            
+    <tr>
+        <td>HTML (5)&nbsp; 	&nbsp;	&nbsp;  &nbsp;	&nbsp;	&nbsp;	&nbsp; &nbsp;  &nbsp; 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp; ⭐⭐⭐⭐⭐⭐</td>
+        <td> Object Orientated Programming			&nbsp; ⭐⭐⭐✩✩</td>
+    </tr>
+    <tr> <td>     JSON &nbsp;	&nbsp; &nbsp; 	&nbsp;		&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;⭐⭐⭐⭐⭐✩
+      <td> SASS / SCSSS&nbsp; 
+              &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp; &nbsp;  &nbsp; 	&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp; ⭐⭐⭐⭐⭐⭐ </td>  
+    </tr>	
+    <tr>
+        <td> MySQL	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;⭐⭐⭐⭐⭐⭐ </td>
+    <td>SEO &nbsp; &nbsp;&nbsp;	&nbsp; 	&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; ⭐⭐⭐⭐✩	</td>
+    
+    </tr>
+        </table>  
+
+
+   
+</body>
+</html>
